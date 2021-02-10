@@ -1,8 +1,11 @@
 # Smart-Home-Project
 
 FPGA: Device Family: SPARTAN 3E |  Device: XC3S520 | Package: FG320 
+
 Platform: Xilinx Vivado
+
 HDL: Verilog
+
 Description : 
 1. Created a Plan for driving LDR, IR and LEVEL sensors using Xilinx FPGA.
 2. Developed an efficient code in Verilog with submodules for each of the sensors.
